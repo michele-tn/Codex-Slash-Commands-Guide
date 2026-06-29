@@ -1,6 +1,8 @@
 # Codex Slash Commands Guide
 
-![Codex Slash Commands Guide cover](https://raw.githubusercontent.com/michele-tn/Codex-Slash-Commands-Guide/refs/heads/main/codex-slash-commands-cover.svg)
+<!-- ![Codex Slash Commands Guide cover](https://raw.githubusercontent.com/michele-tn/Codex-Slash-Commands-Guide/refs/heads/main/codex-slash-commands-cover.svg) -->
+## 🎬 D3m0
+https://github.com/user-attachments/assets/6af2bdd9-9fa1-41f3-8763-3ea4aa24bda9
 
 ## Overview
 
