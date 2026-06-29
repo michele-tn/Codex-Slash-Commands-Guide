@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Slash Commands Guide</title>
+  <desc id="desc">A production-style GitHub cover image for a Codex slash commands guide.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101828"/>
+      <stop offset="0.48" stop-color="#183B56"/>
+      <stop offset="1" stop-color="#0B4F6C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <path d="M0 470 C170 420 250 555 420 505 C590 456 620 345 785 375 C955 406 1025 520 1280 445 L1280 640 L0 640 Z" fill="#0F766E" opacity="0.22"/>
+  <path d="M0 520 C205 455 310 590 500 540 C705 486 755 432 935 468 C1085 498 1135 550 1280 505 L1280 640 L0 640 Z" fill="#F59E0B" opacity="0.16"/>
+
+  <g filter="url(#shadow)">
+    <rect x="92" y="96" width="1096" height="448" rx="24" fill="#F8FAFC"/>
+    <rect x="92" y="96" width="1096" height="74" rx="24" fill="#E2E8F0"/>
+    <path d="M92 146 H1188 V170 H92 Z" fill="#E2E8F0"/>
+    <circle cx="132" cy="133" r="10" fill="#EF4444"/>
+    <circle cx="164" cy="133" r="10" fill="#F59E0B"/>
+    <circle cx="196" cy="133" r="10" fill="#22C55E"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="132" y="236" fill="#0F172A" font-size="58" font-weight="800">Codex Slash Commands</text>
+    <text x="132" y="294" fill="#334155" font-size="28" font-weight="500">Production reference for App, IDE, CLI, skills, and revisioning workflows</text>
+
+    <g transform="translate(132 350)">
+      <rect x="0" y="0" width="220" height="52" rx="10" fill="#0F172A"/>
+      <text x="28" y="35" fill="#F8FAFC" font-size="23" font-family="Consolas, Monaco, monospace">/status</text>
+
+      <rect x="244" y="0" width="196" height="52" rx="10" fill="#0F172A"/>
+      <text x="272" y="35" fill="#F8FAFC" font-size="23" font-family="Consolas, Monaco, monospace">/plan</text>
+
+      <rect x="464" y="0" width="210" height="52" rx="10" fill="#0F172A"/>
+      <text x="492" y="35" fill="#F8FAFC" font-size="23" font-family="Consolas, Monaco, monospace">/review</text>
+
+      <rect x="698" y="0" width="242" height="52" rx="10" fill="#0F172A"/>
+      <text x="726" y="35" fill="#F8FAFC" font-size="23" font-family="Consolas, Monaco, monospace">/revisioning</text>
+    </g>
+
+    <g transform="translate(132 448)">
+      <rect x="0" y="0" width="148" height="42" rx="21" fill="#CCFBF1"/>
+      <text x="28" y="28" fill="#115E59" font-size="18" font-weight="700">Desktop</text>
+
+      <rect x="168" y="0" width="98" height="42" rx="21" fill="#DBEAFE"/>
+      <text x="198" y="28" fill="#1E40AF" font-size="18" font-weight="700">IDE</text>
+
+      <rect x="286" y="0" width="94" height="42" rx="21" fill="#FEF3C7"/>
+      <text x="317" y="28" fill="#92400E" font-size="18" font-weight="700">CLI</text>
+
+      <rect x="400" y="0" width="110" height="42" rx="21" fill="#EDE9FE"/>
+      <text x="431" y="28" fill="#5B21B6" font-size="18" font-weight="700">Skills</text>
+    </g>
+  </g>
+
+  <rect x="92" y="96" width="1096" height="448" rx="24" fill="none" stroke="url(#accent)" stroke-width="3"/>
+</svg>
