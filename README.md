@@ -377,16 +377,6 @@ Codex scans only top-level Markdown files in `~/.codex/prompts/`. Restart Codex 
 - Prefer skills over custom prompts for new reusable workflows.
 - Treat `/prompts:*` commands as compatibility tools, not the default extension mechanism.
 
-## GitHub Publication Checklist
-
-- [ ] Place this file in `docs/`, or rename it to `README.md` if it is the main repository guide.
-- [ ] Keep the title and headings stable for external links.
-- [ ] Verify command availability against the Codex version used by the team.
-- [ ] Document any organization-specific policy that disables commands or features.
-- [ ] Prefer skills for shared team workflows.
-- [ ] Keep custom prompt examples clearly marked as compatibility fallback.
-- [ ] Review links to official documentation before each production release.
-
 ## Official References
 
 - [Codex app commands](https://developers.openai.com/codex/app/commands)
