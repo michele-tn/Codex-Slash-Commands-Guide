@@ -2,7 +2,15 @@
 
 <!-- ![Codex Slash Commands Guide cover](https://raw.githubusercontent.com/michele-tn/Codex-Slash-Commands-Guide/refs/heads/main/codex-slash-commands-cover.svg) -->
 ## 🎬 𝘿𝟯𝙈𝟬
-https://github.com/user-attachments/assets/6af2bdd9-9fa1-41f3-8763-3ea4aa24bda9
+https://github.com/user-attachments/assets/6af2bdd9-9fa1-41f3-8763-3ea4aa24bda9 -->
+## 🎬 𝘿𝟯𝙈𝟬
+
+<video controls preload="metadata" style="width: 100%; max-width: 960px; height: auto;">
+  <source
+    src="https://github.com/user-attachments/assets/6af2bdd9-9fa1-41f3-8763-3ea4aa24bda9"
+    type="video/mp4">
+  Il tuo browser non supporta la riproduzione video.
+</video>
 
 ## Overview
 
